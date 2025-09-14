@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Reese,John;;;
+FN:John Reese
+ORG:Alerta Family
+TITLE:Chairman
+TEL;TYPE=CELL:+1-757-289-5870
+EMAIL;TYPE=INTERNET:john.reese@alerahome.com
+ADR;TYPE=WORK:;;11325 Indian Trail;Dallas;TX;75229;USA
+URL:https://alertahome.com
+END:VCARD
